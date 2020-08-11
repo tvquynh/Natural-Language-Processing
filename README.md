@@ -20,9 +20,9 @@ Step 2:  Create a vitrual environment <br>
              - jupyter=1.0.0
         prefix: C:\Users\quynhtv\Anaconda3\envs\nlp <br>
 
-  -> Open Anacoda Prompt or Command Prompt ->   Go to folder contain nlp_env.yml file and type "conda env create -f nlp_env.yml" without quote  <br>
-  ->Type "conda activate nlp" without quote <br>
- Step 3:  Type "jupyter notebook" without quote start interactive python3 session <br>
+  -> Open Anacoda Prompt or Command Prompt ->   Go to folder contain nlp_env.yml file and type "conda env create -f nlp_env.yml" without quote (")  <br>
+  ->Type "conda activate nlp" without quote (")<br>
+ Step 3:  Type "jupyter notebook" without quote (") to start interactive python3 session <br>
 
  Good luck!
 
