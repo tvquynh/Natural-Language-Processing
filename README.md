@@ -1,8 +1,8 @@
 # Natural-Language-Processing
-How to install Natural Language Processing environment for windows
-Step 1: Download and Install Anacoda for Windows from https://www.anaconda.com/products/individual or Direct link: https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows-x86_64.exe
+How to install Natural Language Processing environment for windows <br>
+Step 1: Download and Install Anacoda for Windows from https://www.anaconda.com/products/individual or Direct link: https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows-x86_64.exe <br>
     -> Just run click Next -> Next -> Next -> Select all Advanced Options and then Install.
-Step 2:  Create a vitrual environment
+Step 2:  Create a vitrual environment <br>
     -> Create text file named nlp_env.yml as below:
     
            name: nlp
@@ -21,9 +21,9 @@ Step 2:  Create a vitrual environment
         prefix: C:\Users\quynhtv\Anaconda3\envs\nlp
         
         
-    -> Open Anacoda Prompt or Command Prompt ->   Go to folder contain nlp_env.yml file and type "conda env create -f nlp_env.yml" without quote 
-    ->Type "conda activate nlp" without quote 
- Step 3:  Type "jupyter notebook" without quote start interactive python3 session
+    -> Open Anacoda Prompt or Command Prompt ->   Go to folder contain nlp_env.yml file and type "conda env create -f nlp_env.yml" without quote  <br>
+    ->Type "conda activate nlp" without quote <br>
+ Step 3:  Type "jupyter notebook" without quote start interactive python3 session <br>
  
  Good luck!
 
