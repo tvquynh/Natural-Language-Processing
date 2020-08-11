@@ -1,5 +1,5 @@
 # Natural-Language-Processing
-<b>How to install Natural Language Processing environment for windows <b><br>
+<b>How to install Natural Language Processing environment for windows </b><br>
 Step 1: Download and Install Anacoda for Windows from https://www.anaconda.com/products/individual or Direct link: https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows-x86_64.exe <br>
     -> Just run click Next -> Next -> Next -> Select all Advanced Options and then Install.
 Step 2:  Create a vitrual environment <br>
